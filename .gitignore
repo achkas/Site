@@ -1,6 +1,6 @@
 private/
 tmp/
 img/NeuroStartUp.png_backup
-*.html_old
+index.html_old
 *.db
 *.DS_Store
