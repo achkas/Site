@@ -1,6 +1,6 @@
 private/
 tmp/
 img/NeuroStartUp.png_backup
-Site For Import/index.html_old
+*.html_old
 *.db
 *.DS_Store
